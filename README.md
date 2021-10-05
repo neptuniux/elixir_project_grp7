@@ -1,4 +1,4 @@
-# Erlang Producer-consumer dockerized
+# Erlang dockerized Producer-consumer
 ## Presentation
 This is a minimalistic example of an Erlang distributed [Producer-consumer](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem) program. The purpose of this project is mainly the communication of Erlang processes through Docker container.
 
