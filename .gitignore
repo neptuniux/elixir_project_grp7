@@ -1,4 +1,8 @@
+# erlang binary files
 *.beam
+# erlang dump
 *.dump
+# env file
 .env
+# script to easily docker build/push
 build_push.sh
