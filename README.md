@@ -1,4 +1,4 @@
-# Erlang dockerized Producer-consumer
+# Erlang Producer-consumer dockerized
 ## Presentation
 This is a minimalistic example of an Erlang distributed [Producer-consumer](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem) program. The purpose of this project is mainly the communication of Erlang processes through Docker container.
 
@@ -7,7 +7,7 @@ Each of the three actors has a dedicated folder, Erlang file and Dockerfile. The
 
 ## Instructions
 - First of all make sure you have a proper [docker installation](https://docs.docker.com/engine/install/) with [docker-compose](https://docs.docker.com/compose/install/).
-- Then bring up the project
+- Then bring up the project by executing 
 ```
 docker-compose up -d
 ```
